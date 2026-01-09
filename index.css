@@ -1,8 +1,24 @@
+.navbar{
+    color: darkolivegreen;
+    font-weight: 450;
+    font-size: 0.25r;
+    left: 15%;
+}
+
 .title{
     color: darkgray;
     font-size: 1.2fr;
-   }
-   .flowers{
-      height: 300px;
-      width: 450px;
-   }
+    justify-content: center;
+}
+
+.flower_paragraph{
+    font-size: 0.5fr;
+    color: darkolivegreen;
+    justify-content: center;
+}
+
+.flowers{
+    height: 300px;
+    width: 450px;
+    justify-content: center;
+}

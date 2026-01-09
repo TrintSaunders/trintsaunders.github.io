@@ -1,24 +1,22 @@
-.navbar{
+.home_nav{
     color: darkolivegreen;
     font-weight: 450;
-    font-size: 0.5r;
+    font-size: 1r;
     left: 15%;
 }
 
 .title{
     color: darkgray;
-    font-size: 1.2fr;
-    justify-content: center;
+    font-size: 2.5fr;
 }
 
 .flower_paragraph{
-    font-size: 0.5fr;
+    font-size: 1fr;
     color: darkolivegreen;
-    justify-content: center;
 }
 
 .flowers{
     height: 300px;
     width: 450px;
-    justify-content: center;
+    border-radius: 8px;
 }

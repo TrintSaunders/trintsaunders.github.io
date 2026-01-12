@@ -1,4 +1,16 @@
-.home_nav{
+/*  ======================
+    BODY
+    ====================== */
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    color: #222;
+    line-height: 1.7;
+}
+
+.navbar{
     color: darkolivegreen;
     font-weight: 450;
     font-size: 1r;
